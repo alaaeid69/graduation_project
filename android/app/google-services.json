@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "513108174884",
+    "project_id": "mohamed-saleh-b6ac9",
+    "storage_bucket": "mohamed-saleh-b6ac9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513108174884:android:0a9c7f1159f910dc08d0b1",
+        "android_client_info": {
+          "package_name": "com.example.gradproj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi37a4wNKAklZSLjm-vWwZMor3QNOo8zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
